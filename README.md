@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/henask12/hello-microverse">
-    <img src="https://i.imgur.com/Ks3sZsH.png" alt="Logo" width="80" height="80">
-  </a>
+ 
   <h3 align="center">Hello Microverse</h3>
   <p align="center">
     A simple website to say hello to the world!
@@ -56,9 +54,9 @@ Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
+Create your Feature Branch (git checkout -b feature/hello-microverse)
+Commit your Changes (git commit -m 'Add some Hello microverse')
+Push to the Branch (git push origin feature/hello-microverse)
 Open a Pull Request
 <!-- LICENSE -->
 License
