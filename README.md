@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -96,7 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://github.com/henask12/hello-microverse/pulls)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +110,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: you need to know the basic of HTML5, CSS, and basic knowledge about Git
 
 <!--
 Example command:
@@ -122,7 +122,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/henask12/hello-microverse.git
 
 <!--
 Example commands:
@@ -135,7 +135,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: install HTMLHint and styleLint
 
 <!--
 Example command:
@@ -148,7 +148,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: just need a web brwosser 
 
 <!--
 Example command:
@@ -160,7 +160,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: you just need a simple web browser to run this project for a test
 
 <!--
 Example command:
@@ -169,10 +169,6 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-
-### Deployment
-
-You can deploy this project using:
 
 <!--
 Example:
@@ -194,7 +190,7 @@ Example:
 
 - GitHub: [@githubhandle](https://github.com/henask12)
 - Twitter: [@twitterhandle](https://twitter.com/henok_mekonnen3)
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/henok-mekonnen-491685188))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/henok-mekonnen-491685188)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
